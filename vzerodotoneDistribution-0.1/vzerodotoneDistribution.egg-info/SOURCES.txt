@@ -1,0 +1,10 @@
+setup.py
+vzerodotoneDistribution/Binomialdistribution.py
+vzerodotoneDistribution/Gaussiandistribution.py
+vzerodotoneDistribution/Generaldistribution.py
+vzerodotoneDistribution/__init__.py
+vzerodotoneDistribution.egg-info/PKG-INFO
+vzerodotoneDistribution.egg-info/SOURCES.txt
+vzerodotoneDistribution.egg-info/dependency_links.txt
+vzerodotoneDistribution.egg-info/not-zip-safe
+vzerodotoneDistribution.egg-info/top_level.txt
